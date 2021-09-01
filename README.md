@@ -1,4 +1,4 @@
-# Lists and examples for new Javascript features
+# Lists and examples for new JavaScript features
 A comprehensive list of new ES features, including ES2015 (ES6), ES2016, ES2017, ES2018, ES2019 (2015-2019)
 
 * [ES2015 (ES6) feature list and examples](ES2015.MD)
@@ -23,4 +23,4 @@ https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8
 ---
 This repo will be updated with future ES releases.
 
-If you find any mistakes or you would like to contribute examples/ descriptions, please open an **issue** or **pull request**.
+If you find any mistakes or you would like to contribute examples/descriptions, please open an **issue** or **pull request**.
